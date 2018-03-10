@@ -1,0 +1,7 @@
+{
+  "name": "time-counter",
+  "version": "0.0.1",
+  "main":"time-counter.js",
+  "author":"Denis Koronets<deniskoronets@gmail.com>",
+  "description": "A simple, lightweight backward time counter",
+}
